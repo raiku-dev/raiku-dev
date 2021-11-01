@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MCodes96/MCodes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello world
-Just a personal repo where I might drop off some ideas and other interesting things 
+## Learning to code - My Journey
 
 Date: 27. October 2021
 My Name is Mikayil.
