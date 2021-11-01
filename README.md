@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ## Learning to code - My Journey
 
 Date: 27. October 2021
+
 My Name is Mikayil.
+
 For the sake of simplicity feel free to call me Miki, pronounced like Mickey Mouse.
 
 By the time I'm writing this I'm 3 weeks into coding.
