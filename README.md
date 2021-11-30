@@ -23,5 +23,5 @@ My Name is Mikayil.
 For the sake of simplicity feel free to call me Miki, pronounced like Mickey Mouse.
 
 By the time I'm writing this I'm 3 weeks into coding.
-I'm trying to become a self-taught Full-Stack developer because I want to build amazing software that makes people happy and which is useful to them.
-I guess that is my way to give back.
+I'm trying to become a self-taught Full-Stack developer because I want to build amazing software which makes people happy and is useful to them.
+That is my way to give back.
