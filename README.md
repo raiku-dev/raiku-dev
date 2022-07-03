@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 # Hello world
 ## Learning to code - My Journey
 
-Date: 27. October 2021
-
 My Name is Mikayil.
 
-For the sake of simplicity feel free to call me Miki, pronounced like Mickey Mouse.
+For the sake of simplicity feel free to call me Miki, pronounced like Mickey.
 
-By the time I'm writing this I'm 3 weeks into coding.
 I'm trying to become a self-taught Full-Stack developer because I want to build amazing software which makes people happy and is useful to them.
 That is my way to give back.
+
+I'll be uploading all my own projects and code-along projects onto my GitHub profile.
