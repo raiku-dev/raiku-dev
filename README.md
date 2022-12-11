@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # Hello world
-## Learning to code - My Journey
+## Self-taught Full-Stack Developer currently @ Yunivers UG
 
 My Name is Mikayil.
 
 For the sake of simplicity feel free to call me Miki, pronounced like Mickey.
-
-I'm trying to become a self-taught Full-Stack developer as I want to build amazing software which makes people happy and is useful to them.
+I want to build amazing software which makes people happy and is useful to them.
 That is my way to give back.
 
-I'll be uploading all my own projects and code-along projects onto my GitHub profile.
+I'll be uploading all my own projects onto my GitHub profile.
