@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello world
-## Self-taught Full-Stack Developer currently @ Yunivers UG
+## Full-Stack Developer currently @ Yunivers UG
 
 My Name is Mikayil.
 
@@ -23,3 +23,4 @@ I want to build amazing software which makes people happy and is useful to them.
 That is my way to give back.
 
 I'll be uploading all my own projects onto my GitHub profile.
+Some of them might be tutorials I tried.
