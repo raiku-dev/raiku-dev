@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello world
-## Full-Stack Developer currently @ Yunivers UG
+## Full-Stack Developer currently @ Yunivers GmbH
 
 My Name is Mikayil.
 
