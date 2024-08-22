@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello world
-## Full-Stack Developer
+## Full Stack Developer
 
 My Name is Mikayil.
 
