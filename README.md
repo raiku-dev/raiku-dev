@@ -1,5 +1,5 @@
 <!--
-**MCodes96/MCodes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**raiku-dev/raiku-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 # Hello world
 ## Full Stack Developer
 
-My Name is Mikayil.
-
-For the sake of simplicity feel free to call me Miki, pronounced like Mickey.
 I want to build amazing software which makes people happy and is useful to them.
-That is my way to give back.
 
 I rarely upload any projects to my GitHub and most of the stuff on here are tutorials I tried a few years ago.
+
 Maybe I'll create some nice portfolio projects soon. ;)
