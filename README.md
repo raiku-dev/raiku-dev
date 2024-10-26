@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello world
 ## Full Stack Developer
 
-I want to build amazing software which makes people happy and is useful to them.
+I want to build amazing software that makes people happy and that is useful to them.
 
 I rarely upload any projects to my GitHub and most of the stuff on here are tutorials I tried a few years ago.
 
